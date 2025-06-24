@@ -16,6 +16,9 @@ In this project, we are going to manage our public library. This involves books,
  
  - Security and entry restriction: Security and Access Control is required so that there is proper data security and data integrity maintained. (Morris, 2016)
 
-#
+# CONCLUSION:
+ - The library database aims to efficiently manage all aspects of library operations, from user registration to book management and reporting.
+ - By addressing the needs of stakeholders like library staff, members, and external entities, the database ensures smooth functioning, better user experience, and valuable insights through reporting and analytics. 
+ - Key objectives include efficient data management, user access facilitation, inventory tracking, transaction monitoring, reservation handling, and robust security measures.  
 
 
