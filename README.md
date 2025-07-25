@@ -1,6 +1,8 @@
 # ER-Diagram-for-a-Library
 In our project, we have designed and deployed a relational database for handling a library system.
 
+<img width="428" height="401" alt="image" src="https://github.com/user-attachments/assets/56c27c3c-2687-40ad-8371-88a675ac0514" />
+
 # AIM:                                                                                                                                                        
 In this project, we are going to manage our public library. This involves books, authors, users, publishers, suppliers, genres, borrowing, fines, and reservations. Our goal is to assist staff, library members, and other stakeholders. Database is systematized way of storing and retrieving valuable data. Our main goal from this assignment is to provide a solution for managing library operations. By doing this, we will be able to enhance the user efficiency and provide impeccable insights and patterns. 
 
